@@ -2,10 +2,10 @@
 
 ## Information
 
-| Type | Tools |
-| ---- |:------|
+| Type     | Tools               |
+| :------- | :------------------ |
 | frontend | react, redux, axios |
-| backend | express |
+| backend  | express             |
 
 ## Special Thanks
 
